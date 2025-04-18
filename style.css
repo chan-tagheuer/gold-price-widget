@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+  background: #fff;
+}
+
+.gold-widget {
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  padding: 16px;
+  max-width: 320px;
+  margin: auto;
+  background: #fafafa;
+  text-align: center;
+}
+
+.gold-widget h2 {
+  font-size: 1.2rem;
+  color: #444;
+}
+
+.gold-widget .price {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d4af37;
+  margin-top: 10px;
+}
+
+.update-time {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 8px;
+}
